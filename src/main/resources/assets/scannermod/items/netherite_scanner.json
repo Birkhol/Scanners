@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "scannermod:item/netherite_scanner"
+  }
+}
