@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": "minecraft:netherite_ingot",
+    "Q": "minecraft:quartz",
+    "T": "minecraft:redstone_torch",
+    "#": "minecraft:repeater",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "RTR",
+    " N ",
+    "Q#Q"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scannermod:netherite_scanner"
+  }
+}
